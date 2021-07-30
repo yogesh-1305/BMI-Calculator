@@ -1,5 +1,5 @@
-import 'package:bmi_cal/constants.dart';
-import 'package:bmi_cal/reusable_card.dart';
+import 'package:bmi_cal/components/reusable_card.dart';
+import 'package:bmi_cal/constants/constants.dart';
 import 'package:flutter/material.dart';
 
 class Result extends StatelessWidget {
