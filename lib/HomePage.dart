@@ -175,7 +175,6 @@ class _HomePageState extends State<HomePage> {
                                   setState(
                                     () {
                                       age++;
-                                      print('plus');
                                     },
                                   );
                                 },
